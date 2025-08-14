@@ -1,6 +1,8 @@
 # Automação de Testes para Quadro Kanban com Cypress
 Este projeto contém uma suíte de testes automatizados de ponta a ponta (E2E) para a aplicação Quadro Kanban. Os testes foram desenvolvidos utilizando o framework Cypress.
 
+Link para Site Testado: https://kanban-dusky-five.vercel.app/
+
 ## Funcionalidades Testadas
 A suíte de testes tem os seguintes fluxos principais da aplicação:
 
